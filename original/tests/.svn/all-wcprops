@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests
+END
+TestGame.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/TestGame.py
+END
+TestPlayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/TestPlayer.py
+END
+TestUtils.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/TestUtils.py
+END
+TestEvent.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/TestEvent.py
+END
+TestShip.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/TestShip.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/gamedevclub/!svn/ver/7/trunk/games/tsaap/original/tests/main.py
+END
